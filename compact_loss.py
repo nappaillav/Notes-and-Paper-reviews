@@ -1,6 +1,6 @@
 ########################################################
 # Written by : Valliappan                              #
-# This is the formulation for the compact loss         #
+# This is the implementation for the compact loss         #
 # Reference paper https://arxiv.org/pdf/1801.05365.pdf #
 # This code involves much lesser looping statement 	   #		
 # compared to the author's implementation              #
